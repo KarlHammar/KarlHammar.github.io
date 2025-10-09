@@ -18,6 +18,8 @@ $$
 dX_t = f(t,X_t)dt + \sigma(t,X_t)dW_t
 $$
 
+[Home](/) · [Projects](/projects)
+
 ---
 
 ## Publications
