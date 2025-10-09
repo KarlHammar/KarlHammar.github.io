@@ -9,6 +9,9 @@
 </script>
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+
+[Home](/) · [Projects](/projects)
+
 # 👋 Welcome
 
 I am a PhD student working on **state estimation** and **system identification** in **stochastic differential equation (SDE)** models.  
@@ -18,9 +21,7 @@ $$
 dX_t = f(t,X_t)dt + \sigma(t,X_t)dW_t
 $$
 
-[Home](/) · [Projects](/projects)
 
----
 
 ## Publications
 
@@ -40,7 +41,6 @@ $$
   *Data-driven decoding of quantum error correcting codes using graph neural networks*. **Physical Review Research**, 7, 023181.  
   [DOI: 10.1103/PhysRevResearch.7.023181](https://doi.org/10.1103/PhysRevResearch.7.023181) · [arXiv:2307.01241](https://arxiv.org/abs/2307.01241)
 
----
 
 ## Supervised master projects
 
