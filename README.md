@@ -22,6 +22,8 @@ dX_t = f(t,X_t)dt + \sigma(t,X_t)dW_t
 $$
 
 
+![Alt text for accessibility](865140c9-c707-49a8-a59f-e6ee4f727fab.gif)
+
 
 ## Publications
 
