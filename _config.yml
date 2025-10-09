@@ -1,7 +1,5 @@
-title: Your Name
+title: Karl Hammar
 description: Research in state estimation & SDEs
-url: https://KarlHammar.github.io
-baseurl: ""            # set to "/REPO" for project pages
+remote_theme: pages-themes/primer@v0.6.0
 plugins:
-  - jekyll-remote-theme
-remote_theme: poole/lanyon
+- jekyll-remote-theme # add this line to the plugins list if you already have one
