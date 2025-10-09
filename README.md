@@ -43,6 +43,12 @@ $$
   *Data-driven decoding of quantum error correcting codes using graph neural networks*. **Physical Review Research**, 7, 023181.  
   [DOI: 10.1103/PhysRevResearch.7.023181](https://doi.org/10.1103/PhysRevResearch.7.023181) · [arXiv:2307.01241](https://arxiv.org/abs/2307.01241)
 
+## Master's Thesis
+
+- [*Fast Bayesian Inference with Piecewise Deterministic Markov Processes*](https://odr.chalmers.se/items/3e5bf326-5657-4b6b-b2dd-0a78b1aa9d03) (2023).  
+  Master's thesis, Chalmers University of Technology.  
+  Explores Bayesian inference for latent states and parameters in SDE models using PDMP samplers (e.g. Zig-Zag and Bouncy Particle Sampler).
+
 
 ## Supervised master projects
 
