@@ -18,5 +18,3 @@ Unfortunately, the source code has long since been lost — but the game itself 
 👉 [Download Carbon Space (RAR)](http://www.mediafire.com/file/0tu6tg2lfc8tlzr/CarbonSpace.rar)
 
 ---
-
-[← Home](/) · [Projects](/projects)
