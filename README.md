@@ -1,28 +1,31 @@
 # 👋 Welcome
 
-Hi, I’m a PhD student working on **state estimation** and **system identification** in **stochastic differential equation (SDE)** models.
+I am a PhD student working on **state estimation** and **system identification** in **stochastic differential equation (SDE)** models.  
+This page gathers my projects, theses, and publications.
 
-This page serves as a personal research hub, containing:
-- 📄 Notes, blog posts, and code related to my work  
-- 📊 Projects in applied probability, control, and estimation  
-- 🧪 Experiments and reproducible results
+---
 
-## 🧠 Research Interests
-- State estimation for SDE models  
-- Bayesian inference and filtering methods  
-- Stochastic processes and applied probability  
-- Numerical methods for dynamical systems
+## Publications & Preprints
 
-## 🛠️ Tools & Languages
-- Python (NumPy, SciPy, PyTorch)
-- MATLAB
-- LaTeX
-- Bash
+### Peer-Reviewed / Published Versions
 
-## 📬 Contact
-You can reach me via:
-- GitHub Issues or Discussions
-- (Add your preferred contact method here)
+- Hammar, K., Orekhov, A., Wallin Hybelius, P., Wisakanto, A. K., Srivastava, B., Kockum, A. F., & Granath, M. (2022).  
+  *Error-rate-agnostic decoding of topological stabilizer codes*. **Physical Review A**, 105, 042616.  
+  [DOI: 10.1103/PhysRevA.105.042616](https://doi.org/10.1103/PhysRevA.105.042616) · [arXiv:2112.01977](https://arxiv.org/abs/2112.01977)
+
+- Lange, M., Havström, P., Srivastava, B., Bengtsson, I., Bergentall, V., Hammar, K., Heuts, O., van Nieuwenburg, E., & Granath, M. (2025).  
+  *Data-driven decoding of quantum error correcting codes using graph neural networks*. **Physical Review Research**, 7, 023181.  
+  [DOI: 10.1103/PhysRevResearch.7.023181](https://doi.org/10.1103/PhysRevResearch.7.023181) · [arXiv:2307.01241](https://arxiv.org/abs/2307.01241)
+
+---
+
+## Supervised master projects
+
+- *Learning Neural SDEs for Bayesian Filtering and Smoothing* by Gustav Birath Blom & Isak Nilsson (2025). [odr.chalmers.se](https://odr.chalmers.se/items/b9eb07df-1bb2-4ade-b522-590c26531e16)
+
+- *Diffusion Models for Generative Modelling of a Posteriori Probability Measures in Target Tracking* by Axel Nilsson & David Ahnlund (2025). KTH, School of Engineering Sciences (Mathematics). [KTH DiVA record](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1991123)
+
+
 
 ---
 
