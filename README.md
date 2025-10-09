@@ -15,7 +15,7 @@ I am a PhD student working on **state estimation** and **system identification**
 This page gathers my projects, theses, and publications.
 
 $$
-test
+dX_t = f(t,X_t)dt + \sigma(t,X_t)dW_t
 $$
 
 ---
