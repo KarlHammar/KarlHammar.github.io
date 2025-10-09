@@ -1,7 +1,22 @@
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    },
+    svg: { fontCache: 'global' }
+  };
+</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 # 👋 Welcome
 
 I am a PhD student working on **state estimation** and **system identification** in **stochastic differential equation (SDE)** models.  
 This page gathers my projects, theses, and publications.
+
+$$
+test
+$$
 
 ---
 
