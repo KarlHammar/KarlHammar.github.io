@@ -1,4 +1,4 @@
-<script>
+<!--<script>
   MathJax = {
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
@@ -8,6 +8,7 @@
   };
 </script>
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+-->
 
 # 👋 Welcome
 
@@ -20,9 +21,15 @@ $$
 
 ---
 
-## Publications & Preprints
+## Publications
 
-### Peer-Reviewed / Published Versions
+<!-- 
+### Preprints
+- XXX
+-->
+
+
+### Peer-Reviewed
 
 - Hammar, K., Orekhov, A., Wallin Hybelius, P., Wisakanto, A. K., Srivastava, B., Kockum, A. F., & Granath, M. (2022).  
   *Error-rate-agnostic decoding of topological stabilizer codes*. **Physical Review A**, 105, 042616.  
