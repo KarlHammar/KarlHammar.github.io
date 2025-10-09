@@ -1,6 +1,7 @@
 ---
-title: Projects
+title: Karl Hammar | Projects
 ---
+[Home](/) · [Projects](/projects)
 
 # Projects
 
