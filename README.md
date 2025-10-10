@@ -53,7 +53,7 @@ $$
 
 - [*Learning Neural SDEs for Bayesian Filtering and Smoothing*](https://odr.chalmers.se/items/b9eb07df-1bb2-4ade-b522-590c26531e16) by **Gustav Birath Blom** & **Isak Nilsson** (2025).
 
-- [*Diffusion Models for Generative Modelling of a Posteriori Probability Measures in Target Tracking*](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1991123) by **Axel Nilsson** & **David Ahnlund** (2025). KTH, School of Engineering Sciences (Mathematics).
+- [*Diffusion Models for Generative Modelling of a Posteriori Probability Measures in Target Tracking*](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1991123) by **Axel Nilsson** & **David Ahnlund** (2025).
 
 
 ---
