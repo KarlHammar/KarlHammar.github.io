@@ -12,7 +12,7 @@ Then **Carbon Space** is for you! Trapped in a carbon arena, you face hundreds o
 
 How long will you survive? *(Best played with joystick.)*
 
-Carbon Space was a personal project I worked on a few years back in C++ using the media library SFML.  
+Carbon Space was a personal project I worked on in high school when learning programming in C++ using the media library SFML.  
 Unfortunately, the source code has long since been lost — but the game itself is still available for download:
 
 👉 [Download Carbon Space (RAR)](http://www.mediafire.com/file/0tu6tg2lfc8tlzr/CarbonSpace.rar)
