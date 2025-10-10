@@ -23,6 +23,7 @@ $$
 
 
 ![Alt text for accessibility](865140c9-c707-49a8-a59f-e6ee4f727fab.gif)
+<img src="/865140c9-c707-49a8-a59f-e6ee4f727fab.gif" alt="Demo animation" width="400" />
 
 
 ## Publications
