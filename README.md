@@ -12,7 +12,7 @@
 
 [Home](/) · [Projects](/projects)
 
-# 👋 Welcome
+# Karl Hammar — Research, Projects & Thoughts
 
 I am a PhD student working on **state estimation** and **system identification** in **stochastic differential equation (SDE)** models.  
 This page gathers my projects, theses, and publications.
