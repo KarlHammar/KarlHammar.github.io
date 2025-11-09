@@ -17,13 +17,6 @@
 I am a PhD student working on **state estimation** and **system identification** in **stochastic differential equation (SDE)** models.  
 This page gathers my projects, theses, and publications.
 
-$$
-dX_t = f(t,X_t)dt + \sigma(t,X_t)dW_t
-$$
-
-<img src="/865140c9-c707-49a8-a59f-e6ee4f727fab.gif" alt="Demo animation" width="400" />
-
-
 ## Publications
 
 <!-- 
