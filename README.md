@@ -47,6 +47,14 @@ This page gathers my projects, theses, and publications.
 
 ## Supervised master projects
 
+- <a href="https://" target="_blank">
+  *Schrödinger Bridges for Bayesian Filtering*
+  </a> by **Ellen Carlsson** & **Joakim Colpier** (2026).
+
+- <a href="https://" target="_blank">
+  *Sequential Normalizing Flows for Approximating Smoothing Distributions*
+  </a> by **Fredrik Boman** (2026).
+
 - <a href="https://odr.chalmers.se/items/b9eb07df-1bb2-4ade-b522-590c26531e16" target="_blank">
   *Learning Neural SDEs for Bayesian Filtering and Smoothing*
   </a> by **Gustav Birath Blom** & **Isak Nilsson** (2025).
