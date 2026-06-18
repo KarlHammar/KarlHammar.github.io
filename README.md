@@ -17,6 +17,10 @@
 I am a PhD student working on **state estimation** and **system identification** in **stochastic differential equation (SDE)** models.  
 This page gathers my projects, theses, and publications.
 
+<img src="{{ 1_failure_mode_stereo_rotating.gif }}"
+     alt="Lorenz63 system conditioned on a terminal time observation."
+     style="max-width: 100%; height: auto;">
+
 ## Publications
 
 <!-- 
