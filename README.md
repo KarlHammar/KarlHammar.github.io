@@ -19,6 +19,8 @@ This page gathers my projects, theses, and publications.
 
 <img src="/1_failure_mode_stereo_rotating.gif" alt="Lorenz63 system conditioned on a terminal time observation." width="400" />
 
+[Open the interactive Lorenz visualization](lorenz_density_stereo.html)
+
 ## Publications
 
 <!-- 
